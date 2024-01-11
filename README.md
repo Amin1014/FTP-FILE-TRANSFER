@@ -1,4 +1,4 @@
-A simple python project that shows how to transfer files over a netwrok using ftp.
+A simple python project that shows how to transfer files over a network using ftp.
 
 Server Setup: The server creates a socket and binds it to a specific address and port. It then listens for incoming connections from clients.
 
